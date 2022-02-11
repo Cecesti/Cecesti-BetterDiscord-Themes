@@ -1,0 +1,27 @@
+/**
+ * @name Cecesti Purple
+ * @author Cecesti#0237
+ * @version 1.0.0
+ * @description Cecesti Theme Purple
+ */
+
+ @import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/main.css');
+
+ @import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/hideUsers.css');
+ 
+ :root {
+   --rgb-highlight: 148,0,211 !important;
+   --background: black !important;
+   --close-button: var(--dnd-color) !important;
+   --online-color: #39ff14 !important;
+   --afk-color: #FFFF33 !important;
+   --dnd-color: #FF0000 !important;
+   --streaming-color: #bc13fe !important;
+ 
+   --rs-online-color: var(--online-color) !important;
+   --rs-idle-color: var(--afk-color) !important;
+   --rs-dnd-color: var(--dnd-color) !important;
+   --rs-offline-color: gray !important;
+   --rs-invisible-color: gray !important;
+   --rs-streaming-color: var(--stream-color) !important;
+ }
