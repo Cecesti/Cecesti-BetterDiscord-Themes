@@ -11,7 +11,7 @@
  @import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/hideUsers.css');
  
  :root {
-   --rgb-highlight: 148,0,211 !important;
+   --rgb-highlight: 179, 0, 255 !important;
    --background: black !important;
    --close-button: var(--dnd-color) !important;
    --online-color: #39ff14 !important;
